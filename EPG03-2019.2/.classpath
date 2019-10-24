@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/antlr4-runtime-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/commons-text-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/fastutil-8.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/guava-26.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgrapht-bundle-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgrapht-core-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgrapht-demo-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgrapht-ext-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgrapht-guava-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgrapht-io-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgrapht-opt-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jgraphx-3.4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alba/Documents/EclipseWorkspace/lib - Grafos/jheaps-0.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
