@@ -1,4 +1,4 @@
-package main;
+﻿package main;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -12,7 +12,7 @@ import org.jgrapht.graph.SimpleWeightedGraph;
 
 /**
  * Classe onde são respondidas as perguntas do exercício. Nela há métodos
- * necessário para obtenção de todas as respostas.
+ * necessário para obtenção de todas as respostas
  */
 public class Program {
 	
